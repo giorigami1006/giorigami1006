@@ -8,8 +8,8 @@
   **University of Guadalajara (CUCEI)**
 
   <p align="center">
-    <a href="https://linkedin.com/in/www.linkedin.com/in/luís-noam-cabrera-jauregui-4685ba346"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:your-giorigami1006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+    <a href="www.linkedin.com/in/luís-noam-cabrera-jauregui-4685ba346"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:giorigami1006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
     <a href="https://github.com/giorigami1006"><img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&logo=github&label=Followers" /></a>
   </p>
 </div>
