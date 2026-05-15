@@ -1,115 +1,112 @@
 <div align="center">
-  <!-- Minimalist Banner -->
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Luis%20Noam%20Cabrera&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=0d1117&height=240&section=header&text=Luis%20Noam%20Cabrera&fontSize=75&animation=fadeIn&fontAlignY=38&fontColor=ffffff" width="100%" />
 
   <br />
 
-  ### 🏛️ Computer Engineering Student | Low-Level Systems | AI Architect
+  ### 🏛️ Computer Engineering Student | Systems Architect | AI Researcher
   **University of Guadalajara (CUCEI)**
 
   <p align="center">
-    <a href="www.linkedin.com/in/luís-noam-cabrera-jauregui-4685ba346"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:giorigami1006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/giorigami1006"><img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&logo=github&label=Followers" /></a>
+    <a href="https://www.linkedin.com/in/luís-noam-cabrera-jauregui-4685ba346"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:giorigami1006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://github.com/noamcbr"><img src="https://img.shields.io/github/followers/noamcbr?style=for-the-badge&logo=github&label=Network" /></a>
   </p>
 </div>
 
 ---
 
-## 👤 Executive Summary
+## 👤 Professional Profile
 
-I am a dedicated **Computer Engineering** student with a profound fascination for the inner workings of computing systems. My expertise lies at the intersection of **low-level optimization** and **autonomous intelligence**. I believe that truly powerful software is built from the ground up, with a deep understanding of memory management, hardware constraints, and algorithmic efficiency.
+I am an 18-year-old **Computer Engineering** student at CUCEI, focused on the intersection of high-performance systems and autonomous intelligence. I specialize in developing software from the ground up, with a deep emphasis on **memory management, low-level optimization, and scalable architectures.**
 
-*   🔭 **Current Focus:** Developing "Nexus," an autonomous AI agent capable of self-evolution.
-*   🎓 **Academic Path:** Pursuing a B.S. in Computer Engineering at CUCEI.
-*   🌱 **Learning:** Advanced Robotics, Kernel Development, and Neural Network architectures.
-*   ⚡ **Philosophy:** "Simplicity is the ultimate sophistication."
+My technical journey is driven by a curiosity for how complex systems operate under the hood—from the Linux kernel to the neural structures of modern AI. I am currently dedicated to building autonomous entities that bridge the gap between static algorithms and adaptive reality.
+
+*   🔭 **Active Research:** Developing **Project Nexus**, an autonomous AI evolutionary framework.
+*   🎓 **Academic Path:** B.S. in Computer Engineering (Ingeniería en Computación) @ UDG.
+*   🧠 **Core Expertise:** Low-level programming in C/C++, System Automation, and RDBMS.
+*   ⚡ **Motto:** "Optimization is not a luxury; it is the foundation of elegant engineering."
 
 ---
 
-## 🛠️ Technical Portfolio
+## 🛠️ Technical Arsenal
 
-### 💻 Programming Languages
+### 💻 Programming & Logic
 <table width="100%">
   <tr>
-    <td width="25%" align="center"><b>Systems</b></td>
-    <td width="25%" align="center"><b>Application</b></td>
-    <td width="25%" align="center"><b>Data & AI</b></td>
-    <td width="25%" align="center"><b>Scripting</b></td>
+    <td width="25%" align="center"><b>Systems & Hardware</b></td>
+    <td width="25%" align="center"><b>Software Development</b></td>
+    <td width="25%" align="center"><b>Data Science & AI</b></td>
+    <td width="25%" align="center"><b>Infrastucture</b></td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" /><br />
+      <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" /><br />
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" /><br />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+      <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" /><br />
+      <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" /><br />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
     </td>
   </tr>
 </table>
 
-### ⚙️ Environments & Infrastructure
-<p align="left">
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</p>
-
 ---
 
-## 🚀 Featured Research & Projects
+## 🚀 Key Projects & Research
 
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <h3 align="center">🧠 Project Nexus</h3>
-      <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=800" width="100%" alt="Nexus AI" />
+      <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=800" width="100%" style="border-radius:10px;" alt="Nexus AI" />
       <p align="justify">
-        An ambitious architectural framework for an <b>Autonomous Virtual Entity</b>. Nexus leverages Python for high-level cognitive logic while utilizing C++ modules for time-critical system interactions. It is designed to self-program and adapt to its environment.
+        An ambitious framework for an <b>Autonomous Virtual Entity</b>. Nexus leverages Python for high-level cognitive logic while employing C++ for time-critical system hooks, aiming for a self-coding evolutionary loop.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Tech-Python_|_C++-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-Python_|_C++-blue?style=flat-square" />
       </p>
     </td>
-    <td>
+    <td width="50%">
       <h3 align="center">🕹️ Terminal Gaming Engine</h3>
-      <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=800" width="100%" alt="Terminal Engine" />
+      <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&q=80&w=800" width="100%" style="border-radius:10px;" alt="C Engine" />
       <p align="justify">
-        A high-performance gaming suite developed in <b>Pure C</b>. This project focuses on custom data structures and manual memory management to render Chess, Snake, and Tic-Tac-Toe directly in the terminal using ASCII-art buffers.
+        A gaming platform developed in <b>Pure C</b>, focusing on data structure optimization and memory safety. Implements classic logic (Chess, Snake) using direct ASCII buffer rendering for zero-latency execution.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Tech-C_|_Algorithms-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-C_|_Algorithms-green?style=flat-square" />
       </p>
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="50%">
       <h3 align="center">🌌 Caelestia Environment</h3>
-      <img src="https://images.unsplash.com/photo-1629654297299-c8506221ca97?auto=format&fit=crop&q=80&w=800" width="100%" alt="Dotfiles" />
+      <img src="https://images.unsplash.com/photo-1629654297299-c8506221ca97?auto=format&fit=crop&q=80&w=800" width="100%" style="border-radius:10px;" alt="Dotfiles" />
       <p align="justify">
-        A professional-grade <b>Linux Desktop Environment</b> configuration. Built on Arch Linux with the Hyprland compositor, it features custom AGS widgets and Bash automation for a seamless developer experience.
+        A professional <b>Linux Desktop Rice</b> built for maximum productivity. Utilizing Hyprland and AGS (Aylur's GTK Shell), it automates complex workflows through modular Bash scripting on Arch Linux.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Tech-Bash_|_Lua-purple?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-Bash_|_Hyprland-purple?style=flat-square" />
       </p>
     </td>
-    <td>
-      <h3 align="center">💾 Data Management Systems</h3>
-      <img src="https://images.unsplash.com/photo-1544383835-bda2bc66a55d?auto=format&fit=crop&q=80&w=800" width="100%" alt="Databases" />
+    <td width="50%">
+      <h3 align="center">🤖 Robotics Sandbox</h3>
+      <img src="https://images.unsplash.com/photo-1531746790731-6c2079ee396f?auto=format&fit=crop&q=80&w=800" width="100%" style="border-radius:10px;" alt="Robotics" />
       <p align="justify">
-        Scalable back-end architectures utilizing <b>Java and MySQL</b>. This repository contains implementations of relational database schemas designed for high-concurrency and data integrity in enterprise-level applications.
+        A repository dedicated to <b>Hardware/Software Interfacing</b>. Features real-time sensor processing and motor control logic for Arduino-based autonomous units, bridging the gap between code and movement.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Tech-Java_|_MySQL-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-Arduino_|_Embedded-orange?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -117,27 +114,25 @@ I am a dedicated **Computer Engineering** student with a profound fascination fo
 
 ---
 
-## 🎨 Creative Engineering & Hobbies
+## 🎨 Creative Philosophy & Interests
 
-Beyond my technical work, I am passionate about the aesthetics of technology and the pursuit of knowledge:
+Engineering is more than just code; it is a lifestyle of continuous refinement.
 
-*   **System Customization (Ricing):** I treat my Linux workspace as a piece of art. Balancing minimalism with functionality is my ultimate goal.
-*   **Robotics & Hardware:** Tinkering with Arduino and physical components allows me to see my code manifest in the real world.
-*   **Music & Flow:** I enjoy a wide range of music, from the intensity of **Hard Rock** to the classic melodies of **Romantic Ballads**, which help me maintain focus during long coding sessions.
-*   **Mentorship:** I value the advice of my mentors and my mother's philosophy on continuous growth, which I apply to every line of code I write.
+*   **Linux Customization (Ricing):** I treat my OS as a living canvas. Crafting a minimalist and functional environment is essential for my mental clarity and coding workflow.
+*   **Acoustic & Rock Fusion:** My focus is sharpened by a curated mix of **Hard Rock** and **Romantic Ballads** (Franco de Vita, Mon Laferte). These provide the rhythm for deep-work sessions.
+*   **The Pursuit of Growth:** Heavily influenced by personal mentorship and a philosophy of constant learning, I approach every technical challenge as an opportunity to surpass my previous best.
 
 ---
 
-## 📈 Performance Analytics
+## 📈 Performance & Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=omni&hide_border=true" width="450px" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=omni&hide_border=true" width="350px" /></td>
-    </tr>
-  </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=omni&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=noamcbr&show_icons=true&theme=tokyonight&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noamcbr&layout=compact&theme=tokyonight&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&bg_color=0d1117" width="48%" />
+  
+  <br />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noamcbr&theme=tokyonight&hide_border=true&stroke=ffffff&background=0d1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff" width="100%" />
 </div>
 
 ---
