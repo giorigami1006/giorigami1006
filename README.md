@@ -10,7 +10,7 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/luís-noam-cabrera-jauregui-4685ba346"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:giorigami1006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/noamcbr"><img src="https://img.shields.io/github/followers/noamcbr?style=for-the-badge&logo=github&label=Network" /></a>
+    <a href="https://github.com/noamcbr"><img src="https://img.shields.io/github/followers/giorigami1006?style=for-the-badge&logo=github&label=Network" /></a>
   </p>
 </div>
 
@@ -127,12 +127,12 @@ Engineering is more than just code; it is a lifestyle of continuous refinement.
 ## 📈 Performance & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noamcbr&show_icons=true&theme=tokyonight&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noamcbr&layout=compact&theme=tokyonight&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=giorigami1006&show_icons=true&theme=tokyonight&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorigamo1006&layout=compact&theme=tokyonight&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&bg_color=0d1117" width="48%" />
   
   <br />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noamcbr&theme=tokyonight&hide_border=true&stroke=ffffff&background=0d1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giorigami1006&theme=tokyonight&hide_border=true&stroke=ffffff&background=0d1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff" width="100%" />
 </div>
 
 ---
